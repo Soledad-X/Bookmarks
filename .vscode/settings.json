@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Soledad-X\\Downloads\\junit-4.10.jar",
+        "c:\\Users\\Xer\\Downloads\\junit-4.10.jar"
+    ]
+}
